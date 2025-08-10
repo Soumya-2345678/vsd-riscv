@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Sun Aug 10 18:54:37 2025
+[*]
+[dumpfile] "/home/vsduser/rv32i_project/iiitb_rv32i.vcd"
+[dumpfile_mtime] "Sun Aug 10 18:52:24 2025"
+[dumpfile_size] 5500
+[savefile] "/home/vsduser/rv32i_project/waveform_layout.gtkw"
+[timestart] 107
+[size] 1000 597
+[pos] 511 -1
+*-4.561394 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] iiitb_rv32i_tb.
+[sst_width] 223
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 151
+@22
+iiitb_rv32i_tb.NPC[31:0]
+@28
+iiitb_rv32i_tb.RN
+@22
+iiitb_rv32i_tb.WB_OUT[31:0]
+@29
+iiitb_rv32i_tb.clk
+[pattern_trace] 1
+[pattern_trace] 0
